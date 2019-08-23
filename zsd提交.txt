@@ -1,0 +1,17 @@
+snapshots/resnet50_csv_21.h5（part train/all train retinanet init）
+/home/llvision/PL-ZSD_Release/snapshots/resnet50_csv_30.h5  √
+对比：
+/home/llvision/PL-ZSD_Release/snapshots/resnet50_csv_30.h5
+seen_threshold = .4
+unseen_threshold = .05
+
+/disk2/zhang/model/zjzsd/zsd/snapshots/resnet50_csv_50.h5×
+/home/llvision/PL-ZSD_Release/bestsubmit/resnet50_csv_30.h5 t=10 x
+
+/home/llvision/PL-ZSD_Release/snapshots/resnet50_csv_06.h5 giou×
+
+/home/llvision/PL-ZSD_Release/bestsubmit/resnet50_csv_22.h5 :（待出分）
+seen_threshold = .4
+unseen_threshold = .05
+
+

@@ -1,0 +1,227 @@
+test_annotations.csv
+t = 15 
+snapshots/resnet50_csv_04.h5（全量4代，retina初始化）
+Seen mAP: 0.0747
+Seen Rec: 0.0576
+
+t = 80
+snapshots/resnet50_csv_04.h5（全量4代，retina初始化）
+Seen mAP: 0.0747
+Seen Rec: 0.0576
+
+resnet50_part_csv_glo_40.h5
+Seen mAP: 0.0629
+Seen Rec: 0.0708
+
+snapshots/resnet50_csv_05.h5
+Seen mAP: 0.1456
+Seen Rec: 0.1331
+
+snapshots/resnet50_csv_19.h5
+Seen mAP: 0.1713
+Seen Rec: 0.1586
+
+
+
+snapshots/resnet50_csv_24.h5
+Seen mAP: 0.1820
+Seen Rec: 0.1678
+
+snapshots/resnet50_csv_29.h5
+Seen mAP: 0.1796
+Seen Rec: 0.1750
+
+snapshots/resnet50_csv_30.h5
+Seen mAP: 0.1823
+Seen Rec: 0.1792
+
+snapshots/resnet50_csv_31.h5
+Seen mAP: 0.1771
+Seen Rec: 0.1744
+
+snapshots/resnet50_csv_35.h5
+Seen mAP: 0.1792
+Seen Rec: 0.1625
+person 0.2110
+bicycle 0.1814
+car 0.1710
+motorcycle 0.2726
+airplane 0.4080
+bus 0.3128
+train 0.5239
+truck 0.0537
+boat 0.0946
+traffic light 0.0561
+fire hydrant 0.3800
+stop sign 0.4102
+parking meter 0.0345
+bench 0.0758
+bird 0.1204
+cat 0.4537
+dog 0.1621
+horse 0.3210
+sheep 0.1664
+cow 0.1378
+elephant 0.4225
+bear 0.6360
+zebra 0.5732
+giraffe 0.6445
+backpack 0.0039
+umbrella 0.1591
+handbag 0.0164
+tie 0.1159
+suitcase 0.0323
+frisbee 0.1713
+skis 0.0137
+snowboard 0.0000
+kite 0.1067
+baseball bat 0.0000
+baseball glove 0.0000
+skateboard 0.2000
+surfboard 0.1417
+tennis racket 0.2500
+bottle 0.0605
+wine glass 0.0554
+cup 0.0335
+fork 0.0000
+knife 0.0043
+spoon 0.0000
+bowl 0.0668
+banana 0.1336
+apple 0.0735
+sandwich 0.0000
+orange 0.2622
+broccoli 0.1118
+carrot 0.0000
+hot dog 0.2266
+pizza 0.5090
+donut 0.2038
+cake 0.1840
+chair 0.1475
+couch 0.2353
+potted plant 0.2131
+bed 0.5104
+dining table 0.0074
+toilet 0.6469
+tv 0.2132
+laptop 0.3087
+mouse 0.1968
+remote 0.1491
+keyboard 0.2355
+cell phone 0.1743
+microwave 0.1667
+oven 0.0000
+toaster 0.0000
+sink 0.2966
+refrigerator 0.0527
+book 0.0187
+clock 0.2466
+vase 0.0026
+
+50
+Seen mAP: 0.1796
+Seen Rec: 0.1757
+
+####################################################################giou
+snapshots/resnet50_csv_06.h5
+person 0.2150
+bicycle 0.2011
+car 0.1678
+motorcycle 0.2494
+airplane 0.4126
+bus 0.3307
+train 0.5556
+truck 0.0603
+boat 0.0900
+traffic light 0.0480
+fire hydrant 0.3565
+stop sign 0.3846
+parking meter 0.0076
+bench 0.0734
+bird 0.1259
+cat 0.5030
+dog 0.2114
+horse 0.3246
+sheep 0.1760
+cow 0.1665
+elephant 0.4398
+bear 0.5915
+zebra 0.6013
+giraffe 0.6721
+backpack 0.0074
+umbrella 0.1672
+handbag 0.0179
+tie 0.0972
+suitcase 0.0748
+frisbee 0.2887
+skis 0.0304
+snowboard 0.0000
+kite 0.1541
+baseball bat 0.0909
+baseball glove 0.3333
+skateboard 0.1429
+surfboard 0.1345
+tennis racket 0.2826
+bottle 0.0593
+wine glass 0.0837
+cup 0.0776
+fork 0.0117
+knife 0.0301
+spoon 0.0289
+bowl 0.1401
+banana 0.2064
+apple 0.1416
+sandwich 0.0000
+orange 0.4650
+broccoli 0.3052
+carrot 0.0294
+hot dog 0.3985
+pizza 0.5594
+donut 0.3446
+cake 0.2162
+chair 0.1675
+couch 0.2352
+potted plant 0.2436
+bed 0.5260
+dining table 0.0348
+toilet 0.6457
+tv 0.2850
+laptop 0.3588
+mouse 0.2048
+remote 0.1132
+keyboard 0.2835
+cell phone 0.1484
+microwave 0.4000
+oven 0.0000
+toaster 0.0000
+sink 0.2927
+refrigerator 0.0931
+book 0.0210
+clock 0.2125
+vase 0.0088
+scissors 0.2365
+teddy bear 0.1928
+hair drier 0.1429
+toothbrush 0.0556
+sports ball 0.2195
+Seen mAP: 0.2126
+Seen Rec: 0.1955
+
+snapshots/resnet50_csv_10.h5
+Seen mAP: 0.2113
+Seen Rec: 0.1896
+
+snapshots/resnet50_csv_22.h5
+Seen mAP: 0.2317
+Seen Rec: 0.2201
+（Seen mAP: 0.1917
+Seen Rec: 0.1877）
+
+snapshots/resnet50_csv_25.h5
+Seen mAP: 0.2261
+Seen Rec: 0.2124
+
+
+/disk2/zhang/model/zjzsd/zsd/snapshots_2/resnet50_csv_23.h5
+Seen mAP: 0.2325
+Seen Rec: 0.2110
