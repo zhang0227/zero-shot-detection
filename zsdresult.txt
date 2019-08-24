@@ -86,4 +86,5 @@ Seen Rec: 0.1757
   Seen Rec: 0.2006
   
   snapshots/resnet50_csv_20.h5
-  
+  Seen mAP: 0.1506
+  Seen Rec: 0.2079
