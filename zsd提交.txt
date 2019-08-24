@@ -16,5 +16,5 @@ unseen_threshold = .05  X
 
 
 seen_threshold = .3  
-unseen_threshold = .1(待上传结果)
+unseen_threshold = .1(降低
 
