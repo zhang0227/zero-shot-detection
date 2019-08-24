@@ -78,4 +78,5 @@ Seen Rec: 0.1757
 路径：
 词向量： w2v
   snapshots/resnet50_csv_27.h5
-  
+  Seen mAP: 0.1469
+  Seen Rec: 0.1854
