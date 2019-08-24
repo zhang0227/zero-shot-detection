@@ -10,8 +10,11 @@ unseen_threshold = .05
 
 /home/llvision/PL-ZSD_Release/snapshots/resnet50_csv_06.h5 giou×
 
-/home/llvision/PL-ZSD_Release/bestsubmit/resnet50_csv_22.h5 :（待出分）
-seen_threshold = .4
-unseen_threshold = .05
+/home/llvision/PL-ZSD_Release/bestsubmit/resnet50_csv_22.h5 :
+seen_threshold = .4  
+unseen_threshold = .05  X
 
+
+seen_threshold = .3  
+unseen_threshold = .1(待上传结果)
 
