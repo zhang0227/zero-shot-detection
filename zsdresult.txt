@@ -75,7 +75,7 @@ Seen Rec: 0.1757
   
   存在未同步结果
   
-路径：
+路径： /disk2/zhang/model/zjzsd/zsd/snapshots_w2v/
 词向量： w2v
   snapshots/resnet50_csv_27.h5
   Seen mAP: 0.1469
